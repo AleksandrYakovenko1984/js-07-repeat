@@ -1,0 +1,16 @@
+.picture {
+    background-color: darkseagreen;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+
+}
+li {
+    list-style-type: none;
+}
+img{
+    height: 380px;
+  
+}

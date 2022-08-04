@@ -1,0 +1,13 @@
+.btn{
+    width: 100px;
+    height: 40px;
+background-color: brown;
+color: antiquewhite;
+}
+
+.counter{
+color: brown;
+padding: 0 10px 0 10px;
+font-weight: bolder;
+
+}
